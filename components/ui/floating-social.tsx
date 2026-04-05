@@ -16,7 +16,7 @@ export function FloatingSocial() {
 
       {/* Facebook */}
       <a
-        href="#"
+        href="https://www.facebook.com/profile.php?id=61575479624080&sk=about"
         className="flex h-12 w-12 items-center justify-center rounded-full bg-muted text-muted-foreground shadow-lg transition-colors hover:bg-primary hover:text-primary-foreground"
       >
         <Facebook className="h-5 w-5" />

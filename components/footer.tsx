@@ -22,8 +22,7 @@ const links = {
 
 const social = [
   { icon: Instagram, href: "https://www.instagram.com/unisosloyola?igsh=MTM0eG94bGd1eWlrZw==", label: "Instagram" },
-  { icon: Facebook, href: "#", label: "Facebook" },
-  { icon: Linkedin, href: "#", label: "LinkedIn" },
+  { icon: Facebook, href: "https://www.facebook.com/profile.php?id=61575479624080&sk=about", label: "Facebook" },
 ]
 
 export function Footer() {

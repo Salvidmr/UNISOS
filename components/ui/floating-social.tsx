@@ -22,14 +22,6 @@ export function FloatingSocial() {
         <Facebook className="h-5 w-5" />
       </a>
 
-      {/* LinkedIn */}
-      <a
-        href="#"
-        className="flex h-12 w-12 items-center justify-center rounded-full bg-muted text-muted-foreground shadow-lg transition-colors hover:bg-primary hover:text-primary-foreground"
-      >
-        <Linkedin className="h-5 w-5" />
-      </a>
-
       {/* Botón ÚNETE con animación */}
       <div className="group relative">
         <button
